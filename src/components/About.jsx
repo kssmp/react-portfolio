@@ -47,7 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled IT Undergrad hoping to expand his knowledge through interactivg and learning from people around him. I approach tasks with curiosity and a strong work ethic, striving to optimize processes and outcomes. I am particularly passionate about using data and various algorithms to validate opinions and beliefs. I believe that my skills and efforts would make me a valuable asset at your institution.
+        I'm a skilled IT Undergrad hoping to expand his knowledge through interacting and learning from people around him. I approach tasks with curiosity and a strong work ethic, striving to optimize processes and outcomes. I am particularly passionate about using data and various algorithms to validate opinions and beliefs. I believe that my skills and efforts would make me a valuable asset at your institution.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
